@@ -1,6 +1,4 @@
-﻿using System.Net.Http.Headers;
-
-var s = new Solution();
+﻿var s = new Solution();
 s.puzzle2();
 
 public class Solution
